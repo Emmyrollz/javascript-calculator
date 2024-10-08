@@ -1,0 +1,1 @@
+The task of these exercise is to perform simple arithemetic calculations using javascript commands and tasks
